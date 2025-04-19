@@ -1,7 +1,7 @@
-# Experiment No: 2- Data Types – Printing Integer Literals
+# Experiment No: 2- Data Types – bitwise shift operators on the user given integers
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program tobitwise shift operators on the user given integers
 
 ## ALGORITHM  
 1. Begin the program.  
