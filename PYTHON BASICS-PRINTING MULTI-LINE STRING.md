@@ -1,32 +1,42 @@
-# Experiment No: 1 Python Basics- Printing Multiline String
+# Experiment No: 1 Python Basics-  print the result of the following expression as true or false.
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To create a Python program to  print the result of the following expression as true or false.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
-3. Use the `print()` function to display the multi-line string.  
-4. Terminate the program.
+
+Start
+
+Prompt the user to enter a logical expression (e.g., 5 > 3 and 2 < 4)
+
+Read the input expression as a string
+
+Use the eval() function to evaluate the expression
+
+If the result is True, print "True"
+
+Else, print "False"
+
+End
+
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223020008
+# Name-Gokulkrishnan P
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
+a = (1 == True)
 
-print(string_single_quotes)
-print(string_double_quotes)
+b = (1 == False)
+
+c = True + 3
+
+d = False + 7
+print('a is',a)
+print('b is',b)
+print('c:',c)
+print('d:',d)
 ```
 ## OUTPUT
 
