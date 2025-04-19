@@ -1,31 +1,36 @@
-## Experiment No: 4 – Conditional Statements- Checking Vowel or not
+## Experiment No: 4 – Conditional Statements- Divisible by 11
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given number is divisblee by 11 using if..else statement
 ## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+Input Step: Get the integer a from the user.
 
+Check Divisibility:
+
+Use the modulus operator (%) to check if a is divisible by 11. The modulus operation calculates the remainder of the division of a by 11.
+
+If the remainder (a % 11) is equal to 0, then a is divisible by 11.
+
+Output Step: Print the result based on the check:
+
+If a % 11 == 0, print that a is divisible by 11.
+
+Otherwise, print that a is not divisible by 11.
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223020008
+# Name-Gokulkrishnan P
 
-char = input("Enter a character: ")
-char_lower = char.lower()
 
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+a=int(input())
+if a%11==0:
+    print('{} is divisible by 11'.format(a))
 else:
-    print("The given character is NOT a vowel")
+    print("{} is NOT divisible by 11".format(a))
 ```
 
 ## OUTPUT
+exp module1.png
 
 ## RESULT
+Thus the given number is divisble by 11
