@@ -1,7 +1,7 @@
 ## Experiment No: 4 – Conditional Statements- Divisible by 11
 
 ## AIM  
-To Write a Python program to check whether the given number is divisblee by 11 using if..else statement
+To Write a Python program to check whether the given number is divisble by 11 using if..else statement
 ## ALGORITHM  
 Input Step: Get the integer a from the user.
 
@@ -30,7 +30,7 @@ else:
 ```
 
 ## OUTPUT
-exp module1.png
+[exp module1.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%20module1.png)
 
 ## RESULT
 Thus the given number is divisble by 11
