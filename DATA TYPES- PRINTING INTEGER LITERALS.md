@@ -26,7 +26,6 @@ print(list(a))
 
 ```
 ## OUTPUT
-[![exp 2](https://github.com/user-attachments/assets/91ce4318-0ceb-4670-974c-3c719d548205)
 exp 2.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%202.png)
 
 ## RESULT
