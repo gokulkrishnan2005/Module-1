@@ -39,6 +39,7 @@ print('c:',c)
 print('d:',d)
 ```
 ## OUTPUT
-
+https://github.com/gokulkrishnan2005/Module-1/blob/main/EXP3.png
 ## RESULT
+Thus whether true or false is printed
 
