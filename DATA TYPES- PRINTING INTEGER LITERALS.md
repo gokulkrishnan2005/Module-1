@@ -19,12 +19,14 @@ End
 ```python
 # Reg.No-212223020008
 # Name-Gokulkrishnan.P
-# Write your code here
+
 
 a=eval(input('List='))
 print(list(a))
 
 ```
 ## OUTPUT
-
+exp 2.png
 ## RESULT
+Thus the tuple is converted to list.
+
