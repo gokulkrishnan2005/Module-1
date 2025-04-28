@@ -30,7 +30,7 @@ print(f"Distance covered is {c:.2f}km")
 ```
 
 ## OUTPUT
-[IMAGE.PNG](https://github.com/gokulkrishnan2005/Module-1/blob/main/EXP%203-1.png)
+![IMAGE.PNG](https://github.com/gokulkrishnan2005/Module-1/blob/main/EXP%203-1.png)
 
 ## RESULT
 Thus the distance covered by the car to the given time(hr) and speed(km/hr) is founded.
