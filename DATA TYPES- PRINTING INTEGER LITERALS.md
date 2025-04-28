@@ -26,7 +26,7 @@ print(list(a))
 
 ```
 ## OUTPUT
-[exp 2.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%202.png)
+![exp 2.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%202.png)
 
 ## RESULT
 Thus the tuple is converted to list.
