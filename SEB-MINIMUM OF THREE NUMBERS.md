@@ -30,7 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
-[min.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/seb.png)
+![min.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/seb.png)
 
 ## RESULT
 Thus The Minimum of Three Numbers is calculated.
