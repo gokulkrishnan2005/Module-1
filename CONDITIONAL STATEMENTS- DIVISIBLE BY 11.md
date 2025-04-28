@@ -30,7 +30,7 @@ else:
 ```
 
 ## OUTPUT
-[exp module1.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%20module1.png)
+![exp module1.png](https://github.com/gokulkrishnan2005/Module-1/blob/main/exp%20module1.png)
 
 ## RESULT
 Thus the given number is divisble by 11
